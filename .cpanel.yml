@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/maoumaou/gtpdeveloping.maoumaou.gr
+    - /bin/cp -R base $DEPLOYPATH
