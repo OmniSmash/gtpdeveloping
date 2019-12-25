@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/maoumaou/gtpdeveloping.maoumaou.gr
+    - export DEPLOYPATH=/home/maoumaou/bestmmo
     - /bin/cp -R base $DEPLOYPATH
